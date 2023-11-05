@@ -6,7 +6,7 @@ This repopsitory contains configurations of hero grid file.
 
 Grid files provided by java_dota_grid_parser and updated every Sunday.
 
-You can use \*\* app to install them automatically or you can do it yourself.
+You can use \*\*\* app to install them automatically or you can do it yourself.
 
 ## Available configurations
 
