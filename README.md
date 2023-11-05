@@ -1,4 +1,4 @@
-# Project Title
+# java_dota_grid_configs
 
 ## About
 
