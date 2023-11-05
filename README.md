@@ -4,9 +4,9 @@
 
 This repopsitory contains configurations of hero grid file.
 
-Grid files provided by java_dota_grid_parser and updated every Sunday.
+Grid files provided by <a href="https://github.com/msun-dev/java_dota_grid_configs/tree/main">java_dota_grid_configs</a> and updated every Sunday.
 
-You can use \*\*\* app to install them automatically or you can do it yourself.
+You can use <a href="">\*\*\*</a> app to install them automatically or you can do it yourself.
 
 ## Available configurations
 
