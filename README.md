@@ -1,5 +1,7 @@
 # java_dota_grid_configs
 
+Last update: 12 Nov 2023 (Week #2)
+
 ## About
 
 This repopsitory contains configurations of hero grid file.
