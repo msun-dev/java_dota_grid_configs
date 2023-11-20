@@ -1,6 +1,6 @@
 # java_dota_grid_configs
 
-Last update: 12 Nov 2023 (Week #2)
+Last update: 20 Nov 2023 (Week #3)
 
 ## About
 
